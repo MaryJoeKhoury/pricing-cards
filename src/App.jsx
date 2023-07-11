@@ -83,7 +83,7 @@ const planInfo = [
 const App = () => {
   return (
     <>
-      <SectionTitle title="Pricing Option" />;
+      <SectionTitle title="Pricing Option" />
       <PlansContainer>
         {planInfo.map((plan) => (
           <PlanItem
