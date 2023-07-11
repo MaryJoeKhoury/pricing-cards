@@ -9,7 +9,7 @@ const planInfo = [
     id: 1,
     image: "/icons/starter_icn.svg",
     title: "Starter",
-    price: 5,
+    price: "$5 / mo",
     description: [
       {
         id: 1,
@@ -34,7 +34,7 @@ const planInfo = [
     className: "pro-plan__icon",
     image: "/icons/pro_icn.svg",
     title: "pro",
-    price: 28,
+    price: "$28 / mo",
     description: [
       {
         id: 1,
@@ -58,7 +58,7 @@ const planInfo = [
     id: 3,
     image: "/icons/enterprise_icn.svg",
     title: "Enterprise",
-    price: 49,
+    price: "$49 / mo",
     description: [
       {
         id: 1,
